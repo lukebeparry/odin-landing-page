@@ -1,0 +1,1 @@
+A replication of the landing page website project on The Odin Project foundations course.
